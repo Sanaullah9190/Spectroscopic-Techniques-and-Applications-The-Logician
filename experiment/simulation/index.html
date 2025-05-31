@@ -1,13 +1,95 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
+	<link rel="stylesheet" href="./css/main.css">
 </head>
-<body>
-		<!-- Your code goes here-->
 
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
+<body>
+	<!-- Your code goes here-->
+	<div class="container">
+		<!-- Header -->
+		<div class="header">
+			<h1>Spectroscopic Techniques Simulation</h1>
+			<p>Elementary Ideas and Applications of UV, IR, and NMR Spectroscopy</p>
+		</div>
+
+		<!-- Simulation Container -->
+		<div class="simulation-container">
+			<!-- Molecule Selection -->
+			<div class="section">
+				<h2>Select a Molecule</h2>
+				<div class="molecule-grid">
+					<div class="molecule-card benzene" data-molecule="benzene">
+						<h3>Benzene (C₆H₆)</h3>
+						<p>Aromatic compound</p>
+						<div class="emoji">⬢</div>
+					</div>
+					<div class="molecule-card acetone" data-molecule="acetone">
+						<h3>Acetone (C₃H₆O)</h3>
+						<p>Ketone functional group</p>
+						<div class="emoji">🧪</div>
+					</div>
+					<div class="molecule-card ethanol" data-molecule="ethanol">
+						<h3>Ethanol (C₂H₆O)</h3>
+						<p>Alcohol functional group</p>
+						<div class="emoji">🍷</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- Technique Selection -->
+			<div class="section">
+				<h2>Select Spectroscopic Technique</h2>
+				<div class="technique-buttons">
+					<button class="technique-btn uv-btn" data-technique="uv">UV Spectroscopy</button>
+					<button class="technique-btn ir-btn" data-technique="ir">IR Spectroscopy</button>
+					<button class="technique-btn nmr-btn" data-technique="nmr">NMR Spectroscopy</button>
+				</div>
+			</div>
+
+			<!-- Results Display -->
+			<div class="results-container" id="resultsContainer">
+				<div class="results-grid">
+					<!-- Spectrum Display -->
+					<div class="spectrum-panel">
+						<h3 id="spectrumTitle">Spectrum</h3>
+						<div class="spectrum-display">
+							<div class="spectrum-loading" id="spectrumLoading">
+								<div class="loading-dots">
+									<div></div>
+									<div></div>
+									<div></div>
+									<div></div>
+								</div>
+							</div>
+							<canvas id="spectrumCanvas" width="400" height="250" style="display: none;"></canvas>
+						</div>
+					</div>
+
+					<!-- Information Panel -->
+					<div class="info-panel">
+						<h3>Analysis & Information</h3>
+						<div class="info-card">
+							<h4>Technique Principle</h4>
+							<p id="techniquePrinciple"></p>
+						</div>
+						<div class="info-card">
+							<h4>Peak Analysis</h4>
+							<p id="peakAnalysis"></p>
+						</div>
+						<div class="info-card">
+							<h4>Applications</h4>
+							<p id="applications"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Add JS at the bottom of HTML file -->
+	<script src="./js/main.js"></script>
 </body>
+
 </html>
