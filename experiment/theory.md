@@ -4,7 +4,7 @@ Spectroscopy is the study of the interaction between matter and electromagnetic 
 
 ---
 
-🌈 1. UV-Visible Spectroscopy
+ 1. UV-Visible Spectroscopy
 
 Principle:
 UV-Visible spectroscopy is based on the absorption of ultraviolet or visible light by molecules, leading to electronic transitions from lower energy levels (ground state) to higher energy levels (excited state). The most common transitions observed are:
@@ -26,7 +26,7 @@ Quantitative analysis using Beer-Lambert's law
 
 ---
 
-🌡️ 2. Infrared (IR) Spectroscopy
+ 2. Infrared (IR) Spectroscopy
 
 Principle:
 IR spectroscopy involves the absorption of infrared light by molecules, which causes changes in their vibrational states. Each bond in a molecule vibrates at a characteristic frequency, and these vibrations result in specific absorption bands in the IR spectrum.
