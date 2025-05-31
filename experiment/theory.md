@@ -1,4 +1,4 @@
-### Theory in here
+### Theory
 Spectroscopy is the study of the interaction between matter and electromagnetic radiation. It is a vital tool in chemical analysis and structural elucidation of organic and inorganic compounds. Three widely used spectroscopic techniques are UV-Visible (UV), Infrared (IR), and Nuclear Magnetic Resonance (NMR) spectroscopy. Each technique provides different but complementary information about molecular structure.
 
 
@@ -53,7 +53,7 @@ Differentiation of isomers
 
 ---
 
-⚛️ 3. Nuclear Magnetic Resonance (NMR) Spectroscopy
+ 3. Nuclear Magnetic Resonance (NMR) Spectroscopy
 
 Principle:
 NMR spectroscopy is based on the interaction of nuclear spins (commonly of ¹H or ¹³C nuclei) with an external magnetic field. When radiofrequency (RF) radiation is applied, nuclei absorb energy and undergo transitions between nuclear spin states.
