@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following elements are commonly detected using Lassaigne’s test?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Carbon and hydrogen",
+        "b": "Nitrogen, sulfur, halogens",
+        "c": "Phosphorus and oxygen",
+        "d": " Calcium and magnesium"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "b": "Lassaigne’s test detects nitrogen, sulfur, and halogens by converting them into water-soluble ionic compounds.",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the main purpose of fusing the organic compound with sodium in Lassaigne’s test?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To increase solubility",
+        "b": "To convert elements into detectable forms",
+        "c": "To extract the compound",
+        "d": " To neutralize acids"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "b": " The sodium fusion converts covalently bonded elements (N, S, halogens) into ionic, water-soluble forms like NaCN, Na₂S, and NaX",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

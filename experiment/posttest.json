@@ -2,34 +2,34 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": " Which compound is formed during sodium fusion if nitrogen is present in the organic compound?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "NaNO₃",
+        "b": " NaNH₂",
+        "c": "NaCN",
+        "d": " NaNO₂"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
+        "c": "Nitrogen reacts with sodium to form sodium cyanide (NaCN), which is water-soluble and detectable.",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What confirms the presence of sulphur when lead acetate is added to Lassaigne’s extract?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "White precipitate",
+        "b": "Yellow gas",
+        "c": "Black precipitate",
+        "d": ") Blue solution"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
+        "c": "Sulphur forms Na₂S, which gives a black precipitate of PbS with lead acetate.",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
