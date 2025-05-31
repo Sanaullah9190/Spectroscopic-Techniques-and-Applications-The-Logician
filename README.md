@@ -81,7 +81,7 @@ If you’d like, I can also provide a short note or exam-ready answer version of
 
 <b>Name of Developer | <b> Dr Ravish Rajput 
 :--|:--|
-<b> Institute | Rajkiya Engineering College kannouj <b>  
+<b> Institute | Rajkiya Engineering College kannauj <b>  
 <b> Email id| 	ravishrajput@reck.ac.in    <b>  
 <b> Department | 	Applied Science and Humanties 
 
