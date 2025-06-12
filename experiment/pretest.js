@@ -90,23 +90,23 @@
 
   const myQuestions = [
     {
-      question: "Which of the following elements are commonly detected using Lassaigne’s test?",
+      question: "What is the basic principle of spectroscopy?",
       answers: {
-        a: "Carbon and hydrogen",
-        b: "Nitrogen, sulfur, halogens",
-        c: "Phosphorus and oxygen",
-        d: " Calcium and magnesium"
+        a: "Reflection of light",
+        b: "Refraction of light",
+        c: "Absorption or emission of light by matter",
+        d: "Scattering of particles"
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "What is the main purpose of fusing the organic compound with sodium in Lassaigne’s test?",
+     question: "Which part of the electromagnetic spectrum is used in UV-Vis spectroscopy?",
       answers: {
-        a: "To increase solubility",
-        b: "To convert elements into detectable forms",
-        c: "To extract the compound",
-        d: " To neutralize acids"
+        a: "400-800 nm",
+        b: "200–400 nm",
+        c: "0.01–10 nm",
+        d: "700–2500 nm"
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
