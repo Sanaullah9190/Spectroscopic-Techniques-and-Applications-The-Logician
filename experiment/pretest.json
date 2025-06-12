@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which of the following elements are commonly detected using Lassaigne’s test?",
+      "question": "What is the basic principle of spectroscopy?",
       "answers": {
-        "a": "Carbon and hydrogen",
-        "b": "Nitrogen, sulfur, halogens",
-        "c": "Phosphorus and oxygen",
-        "d": " Calcium and magnesium"
+        "a": "Reflection of light",
+        "b": "Refraction of light",
+        "c": "Absorption or emission of light by matter",
+        "d": "Scattering of particles"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "What is the main purpose of fusing the organic compound with sodium in Lassaigne’s test?",
+      "question": "Which part of the electromagnetic spectrum is used in UV-Vis spectroscopy?",
       "answers": {
-        "a": "To increase solubility",
-        "b": "To convert elements into detectable forms",
-        "c": "To extract the compound",
-        "d": " To neutralize acids"
+        "a": "400–800 nm",
+        "b": "200–400 nm",
+        "c": "0.01–10 nm",
+        "d": "700–2500 nm"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
