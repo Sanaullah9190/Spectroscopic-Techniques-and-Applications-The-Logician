@@ -1,4 +1,3 @@
-### Theory
 Spectroscopy is the study of the interaction between matter and electromagnetic radiation. It is a vital tool in chemical analysis and structural elucidation of organic and inorganic compounds. Three widely used spectroscopic techniques are UV-Visible (UV), Infrared (IR), and Nuclear Magnetic Resonance (NMR) spectroscopy. Each technique provides different but complementary information about molecular structure.
 
 
