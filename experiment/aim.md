@@ -1,1 +1,1 @@
-Aim of the experiment
+To study the basic principles and working of different spectroscopic techniques such as UV-Visible, Infrared (IR), and Nuclear Magnetic Resonance (NMR) spectroscopy, and to understand their applications in the identification and analysis of organic compounds.
