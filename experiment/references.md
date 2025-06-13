@@ -1,4 +1,4 @@
-Pavia, D. L., Lampman, G. M., Kriz, G. S., & Vyvyan, J. R.
+1. Pavia, D. L., Lampman, G. M., Kriz, G. S., & Vyvyan, J. R.
 Introduction to Spectroscopy (5th Edition), Cengage Learning, 2014.
 — A widely used textbook providing a clear introduction to UV, IR, and NMR techniques with practical examples.
 
