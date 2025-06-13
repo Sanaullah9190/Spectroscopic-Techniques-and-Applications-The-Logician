@@ -15,4 +15,4 @@ Organic Spectroscopy (3rd Edition), Palgrave Macmillan, 1991.
 
 4. Skoog, D. A., Holler, F. J., & Crouch, S. R.
 Principles of Instrumental Analysis (7th Edition), Cengage Learning, 2017.
-— Covers the instrumentation and principles behind modern spectroscopic techniques
+— Covers the instrumentation and principles behind modern spectroscopic techniques 
