@@ -91,4 +91,3 @@ Spectroscopy is the study of the interaction between matter and electromagnetic 
 ---
 
 If you'd like, I can also provide example spectra or practice questions.
-### Procedure

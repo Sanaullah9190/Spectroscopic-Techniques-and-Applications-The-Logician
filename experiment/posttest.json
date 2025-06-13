@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": " Which compound is formed during sodium fusion if nitrogen is present in the organic compound?",
+      "question": "Which of the following spectroscopy techniques is mainly used to determine functional groups in organic compounds?",
       "answers": {
-        "a": "NaNO₃",
-        "b": " NaNH₂",
-        "c": "NaCN",
-        "d": " NaNO₂"
+        "a": "UV-Vis Spectroscopy",
+        "b": "IR Spectroscopy",
+        "c": "NMR Spectroscopy",
+        "d": "Mass Spectrometry"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,16 @@
         "c": "Nitrogen reacts with sodium to form sodium cyanide (NaCN), which is water-soluble and detectable.",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "What confirms the presence of sulphur when lead acetate is added to Lassaigne’s extract?",
+      "question": " In UV-Visible spectroscopy, which transition is primarily responsible for absorption in conjugated systems?",
       "answers": {
-        "a": "White precipitate",
-        "b": "Yellow gas",
-        "c": "Black precipitate",
-        "d": ") Blue solution"
+        "a": "σ → σ*",
+        "b": "n → σ*",
+        "c": "n → π*",
+        "d": "π → π*"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +32,7 @@
         "c": "Sulphur forms Na₂S, which gives a black precipitate of PbS with lead acetate.",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

@@ -90,25 +90,25 @@
 
   const myQuestions = [
     {
-     question: " Which compound is formed during sodium fusion if nitrogen is present in the organic compound?",
+     question: "Which of the following spectroscopy techniques is mainly used to determine functional groups in organic compounds?",
       answers: {
-        a: "NaNO₃",
-        b: " NaNH₂",
-        c: "NaCN",
-        d: " NaNO₂"
+        a: "UV-Vis Spectroscopy",
+        b: "IR Spectroscopy",
+        c: "NMR Spectroscopy",
+        d: "Mass Spectrometry"
       },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "What confirms the presence of sulphur when lead acetate is added to Lassaigne’s extract?",
+      question: " In UV-Visible spectroscopy, which transition is primarily responsible for absorption in conjugated systems?",
       answers: {
-        a: "White precipitate",
-        b: "Yellow gas",
-        c: "Black precipitate",
-        d: ") Blue solution"
+        a: "σ → σ*",
+        b: "n → σ*",
+        c: "n → π*",
+        d: "π → π*"
       },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
